@@ -30,7 +30,7 @@ public class Day08 implements Day {
         }
     }
 
-    class Pair {
+    static class Pair {
         int first;
         int second;
 
